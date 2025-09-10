@@ -1,5 +1,5 @@
 ## Rosa Chagas 
-Com 39 anos e formada em Direito, sempre teve interesse pela área de tecnologia desde a adolescência. Após anos dedicados aos estudos para concursos públicos, decidiu retomar sua paixão por esse universo. Atualmente, vem adquirindo novos conhecimentos no curso de Técnico em Informática do SENAI, onde também teve a oportunidade de fazer novas amizades e expandir sua rede de contatos. 👋
+Com 39 anos e formada em Direito, sempre teve interesse pela área de tecnologia desde a adolescência. Após anos dedicados aos estudos para concursos públicos, decidiu retomar sua paixão por esse universo. Recentemente conclui o curso Técnico em Informática do SENAI, onde além do conhecimento teve a oportunidade de fazer novas amizades e expandir sua rede de contatos. 👋
 
 <!--
 **RosaCL/RosaCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
