@@ -1,23 +1,36 @@
-## Rosa Chagas 
-Com 39 anos e formada em Direito, sempre teve interesse pela área de tecnologia desde a adolescência. Após anos dedicados aos estudos para concursos públicos, decidiu retomar sua paixão por esse universo. Recentemente conclui o curso Técnico em Informática do SENAI, onde além do conhecimento teve a oportunidade de fazer novas amizades e expandir sua rede de contatos. 👋
+# Olá! 👋 Sou Rosa
 
+Desenvolvedora em **Transição de Carreira** | Apaixonada por Mobile e UX Design
 
-<img width="500" height="500" alt="logocos-removebg-preview" src="https://github.com/user-attachments/assets/c0771467-f626-4cf3-872f-4061b541e6d8" />
+Minha trajetória profissional é marcada por uma sólida formação em Direito, o que me oferece uma **visão analítica** e foco em detalhes — diferenciais valiosos na área de TI.
 
-<!--
-**RosaCL/RosaCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Após anos dedicados ao Direito, iniciei uma transição estratégica para a tecnologia, uma paixão que me acompanha desde a adolescência.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 Cursando Técnico em Informática do SENAI
-- 🌱 Atualmente aprendendo PHP.
-- 👯 Busco oportunidade na área de Front-end
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Minha Stack e Qualificações
+
+* **Base Técnica:**
+    * Técnico em Informática para Internet (SENAI-AL)
+    * Certificado Profissional Google UX Design (Coursera)
+* **Foco Atual (Em Desenvolvimento):**
+    * Desenvolvimento Mobile (Graduação Unicesumar)
+    * Estudando as melhores práticas de Clean Code, Versionamento e Arquitetura Mobile.
+
+### 🌱 O que estou Buscando / Aprendendo
+
+-   **Desenvolvimento:** Kotlin/Java (Android Nativo) e/ou Flutter/Dart.
+-   **Ferramentas:** Git, Figma, IDEs de Desenvolvimento (Android Studio, VS Code).
+-   **Conceitos:** Aplicação de UX/UI nos projetos de desenvolvimento.
+
+### 🚀 Objetivo
+
+Meu foco é aprofundar continuamente o conhecimento técnico e **iniciar minha jornada profissional** no mercado de tecnologia, aplicando essa base multidisciplinar em projetos inovadores.
+
+### 📫 Conecte-se Comigo
+
+<img width="369" height="348" alt="logocos" src="https://github.com/user-attachments/assets/b9997afc-98e6-4d35-a961-11f07840d040" />
+
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/rosamrcl.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rosachagasmrcl/) 
