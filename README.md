@@ -1,7 +1,8 @@
 ## Rosa Chagas 
 Com 39 anos e formada em Direito, sempre teve interesse pela área de tecnologia desde a adolescência. Após anos dedicados aos estudos para concursos públicos, decidiu retomar sua paixão por esse universo. Recentemente conclui o curso Técnico em Informática do SENAI, onde além do conhecimento teve a oportunidade de fazer novas amizades e expandir sua rede de contatos. 👋
 
-<img width="500" height="500" alt="logocos" src="https://github.com/user-attachments/assets/7ce15ebf-cc27-40d8-95d5-8769bbf9fb28" />
+
+<img width="500" height="500" alt="logocos-removebg-preview" src="https://github.com/user-attachments/assets/c0771467-f626-4cf3-872f-4061b541e6d8" />
 
 <!--
 **RosaCL/RosaCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
