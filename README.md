@@ -29,7 +29,8 @@ Meu foco é aprofundar continuamente o conhecimento técnico e **iniciar minha j
 
 ### 📫 Conecte-se Comigo
 
-<img width="369" height="348" alt="logocos" src="https://github.com/user-attachments/assets/b9997afc-98e6-4d35-a961-11f07840d040" />
+<img width="249" height="116" alt="costureza" src="https://github.com/user-attachments/assets/29489ff4-7811-41aa-a836-6ae996ef7720" />
+
 
 
 ## 🌐 Socials:
