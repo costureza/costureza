@@ -30,8 +30,8 @@ Meu foco é aprofundar continuamente o conhecimento técnico e **iniciar minha j
 
 ### 📫 Conecte-se Comigo
 
-<img width="500" height="500" alt="Costurezaww" src="https://github.com/user-attachments/assets/504664fa-01cb-464e-bbce-0dc7159772eb" />
 
+<img width="424" height="115" alt="Costurezaww" src="https://github.com/user-attachments/assets/ed10a5b9-ceb1-4c05-be01-84b012a90dc0" />
 
 
 
