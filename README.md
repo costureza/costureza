@@ -27,9 +27,11 @@ Após anos dedicados ao Direito, iniciei uma transição estratégica para a tec
 
 Meu foco é aprofundar continuamente o conhecimento técnico e **iniciar minha jornada profissional** no mercado de tecnologia, aplicando essa base multidisciplinar em projetos inovadores.
 
+
 ### 📫 Conecte-se Comigo
 
-<img width="249" height="116" alt="costureza" src="https://github.com/user-attachments/assets/29489ff4-7811-41aa-a836-6ae996ef7720" />
+<img width="500" height="500" alt="Costurezaww" src="https://github.com/user-attachments/assets/504664fa-01cb-464e-bbce-0dc7159772eb" />
+
 
 
 
