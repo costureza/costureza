@@ -32,6 +32,7 @@ Meu foco é aprofundar continuamente o conhecimento técnico e **iniciar minha j
 
 
 <img width="452" height="95" alt="Costurezaww" src="https://github.com/user-attachments/assets/2e567209-9e8c-4a3d-b778-bcb805cbf5d2" />
+<img width="462" height="100" alt="costureza" src="https://github.com/user-attachments/assets/94b0f4d4-6700-4b55-8545-d3b2780aa317" />
 
 
 
